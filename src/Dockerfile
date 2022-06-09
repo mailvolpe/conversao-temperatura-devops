@@ -1,4 +1,4 @@
-FROM node
+FROM node:16.15.1
 WORKDIR /app
 
 #Esse fica acima para executar o 'npm install' quando alterar um dos arquivo packege*.json
