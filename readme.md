@@ -20,6 +20,11 @@
 - 15 - Definir a tag 'latest' para a imagem 'v2' com 'docker tag'
 - 16 - Subir a imagem da latest para o Docker Hub (No vídeo 2:53:56, ele dá o comando para subir a v2 mas eu fiquei na dúvida com relação à isso porque a imagem criada foi a latest e a v2 já estava no repositorio)
 
-# Teste final
+# Teste final - Docker
 - 17 - Rodar um container da V2 na porta 8081 para mostrar a execução simultanea dos dois containers
 - 18 - Verificar as três imagens no Docker Hub (V1, V2, Latest)
+
+# Kubernetes
+- 19 - Rodando com Pod 'kubectl apply -f pod.yaml'
+- 20 - Rodando com Replicaset 'kubectl apply -f replicaset.yaml'
+- 21 - Rodando a aplicação em Kubernetes com 'kubectl apply -f deployment.yaml'
