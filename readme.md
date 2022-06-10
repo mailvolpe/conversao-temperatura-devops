@@ -25,6 +25,6 @@
 - 18 - Verificar as três imagens no Docker Hub (V1, V2, Latest)
 
 # Kubernetes
-- 19 - Rodando com Pod 'kubectl apply -f pod.yaml'
-- 20 - Rodando com Replicaset 'kubectl apply -f replicaset.yaml'
-- 21 - Rodando a aplicação em Kubernetes com 'kubectl apply -f deployment.yaml'
+- 19 - Rodando (teste) com Pod 'kubectl apply -f pod.yaml'
+- 20 - Rodando (teste) com Replicaset 'kubectl apply -f replicaset.yaml'
+- 21 - Rodando a aplicação em Kubernetes com 'kubectl apply -f deployment.yaml'. Este aqui é o único comando necessário para rodar com a configuração completa.
